@@ -5,6 +5,7 @@
 # STEP-3 : Run it once before class and test if the program understands your pronunciation of your name
 # STEP-4 : You might have to tweak some spellings, for example, my name is Anab but i entered spelling as anab/unab because thats what the program reads
 # STEP-5 : Run the program when your class starts, be connected to the net, and now relax lol
+#If you plan to use Proxinator anywhere, please do leave a star on the repo and give credits
 
 #Here we imported the required libraries
 import speech_recognition as sr
